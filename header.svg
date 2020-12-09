@@ -1,7 +1,9 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<script type="text/javascript"><![CDATA[
-	    alert("Hello World")
-	  ]]></script>
+	<script type="text/javascript">
+        window.addEventListener('load',function(){
+        alert('Hi')
+        })
+    </script>
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<script>
